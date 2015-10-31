@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Promos" id="a1232c85-0516-4ba9-a8cf-8801091d993c" 
+     gameId="844ed56c-2048-41a6-97b0-3515185e1634" version="1.1" gameVersion="1.0.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CardSet.xsd">
+  <cards>
+     <card id="1d980a6b-821a-4c2a-a6fa-445966b8d2db" name="Brothers in Arms">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="" />
+     	<property name="Cost Type" value="" />
+     	<property name="Cancel" value="" />
+     	<property name="Cancel Type" value="" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="S" />
+     	<property name="Parry" value="d,p" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="React: Play when you are hiring a Loyal Crew from your Captain's faction to produce 3 Influence." />
+     </card>
+     <card id="5b97f0e8-575d-4ea7-b7b1-d6a224162643" name="The Moon Beckoned">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="" />
+     	<property name="Cost Type" value="" />
+     	<property name="Cancel" value="" />
+     	<property name="Cancel Type" value="" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="S" />
+     	<property name="Parry" value="d,p" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="You may only play this card if all of your Crew are tacked. Move your Ship to an adjacent Sea. &#xD;Sink this card." />
+     </card>
+     <card id="14f52b61-4e9e-4f8c-9575-86667c7569f0" name="Indisposed">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="2" />
+     	<property name="Cost Type" value="In" />
+     	<property name="Cancel" value="3" />
+     	<property name="Cancel Type" value="Ca" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="S" />
+     	<property name="Parry" value="d,p" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="Target a Captain who has more than one Attachment.&#xD;Tack that Captain." />
+     </card>
+     <card id="74d21d9b-419a-447f-921f-d14eb9a31975" name="A Friend In Need">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="" />
+     	<property name="Cost Type" value="" />
+     	<property name="Cancel" value="" />
+     	<property name="Cancel Type" value="" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="D" />
+     	<property name="Parry" value="p,t" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="React: Play this card when you are absorbing Hits from a Boarding Attack in which you pushed one of your Crew forward. Tack one of your Crew, except the one pushed forward to suffer 4 fewer Hits.d." />
+     </card>
+     <card id="322700f0-fa94-4d7c-86b6-81f280d1fed8" name="What Do We Have Here?">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="" />
+     	<property name="Cost Type" value="" />
+     	<property name="Cancel" value="" />
+     	<property name="Cancel Type" value="" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="D" />
+     	<property name="Parry" value="p,t" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="Draw the next 3 cards from your deck. You may attach any Adventure cards drawn to Seas they can be legally placed in. Discard all of these cards which you do not put into play." />
+     </card>
+     <card id="c0b43b24-154e-40fa-839c-5ed9d5d6d221" name="Gentleman's Agreement">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="" />
+     	<property name="Cost Type" value="" />
+     	<property name="Cancel" value="" />
+     	<property name="Cancel Type" value="" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="D" />
+     	<property name="Parry" value="p,t" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="You may only play this card if you have a Heroic Captain.&#xD;React: Play when you are hiring a Heroic Crew to produce 2 Influence." />
+     </card>
+     <card id="ce594172-6509-4053-94ab-a1aa578e3062" name="In the Dark of the Night">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="5" />
+     	<property name="Cost Type" value="Ad" />
+     	<property name="Cancel" value="3" />
+     	<property name="Cancel Type" value="Sa" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="D" />
+     	<property name="Parry" value="p,t" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="Target a player. That player draws 2 fewer cards during the Draw phase this turn (minimum 1)." />
+     </card>
+     <card id="da303b10-0aa2-423c-88a0-e720396173f9" name="Calling in Favors">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="" />
+     	<property name="Cost Type" value="" />
+     	<property name="Cancel" value="" />
+     	<property name="Cancel Type" value="" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="D" />
+     	<property name="Parry" value="p,t" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="React: Play this card and discard two cards from your hand when you are paying an Influence cost to produce 2 Influence." />
+     </card>
+     <card id="f800e29f-5122-4b3a-9e13-516182d3e8f0" name="Ambush!">
+     	<property name="Rarity" value="P" />
+     	<property name="Type" value="actions" />
+     	<property name="Cost" value="1" />
+     	<property name="Cost Type" value="In" />
+     	<property name="Cancel" value="" />
+     	<property name="Cancel Type" value="" />
+     	<property name="Wealth" value="" />
+     	<property name="Attack" value="D" />
+     	<property name="Parry" value="p,t" />
+     	<property name="Cannon" value="" />
+     	<property name="Sailing" value="" />
+     	<property name="Adventuring" value="" />
+     	<property name="Influence" value="" />
+     	<property name="Swashbuckling" value="" />
+     	<property name="Crew Max" value="" />
+     	<property name="Move Cost" value="" />
+     	<property name="Faction" value="" />
+     	<property name="Text" value="React: Play when a Ship uses it Free Move to enter your Sea.&#xD; Inflict 2 Hits on the Ship." />
+     </card>
+     <card id="6e5a0cd2-ea92-4346-a8ca-e9e7f05a5aae" name="Fair Weather Friend">
+ 		<property name="Rarity" value="P" />
+ 		<property name="Type" value="ships" />
+ 		<property name="Cost" value="" />
+ 		<property name="Cost Type" value="" />
+ 		<property name="Cancel" value="" />
+ 		<property name="Cancel Type" value="" />
+ 		<property name="Wealth" value="" />
+ 		<property name="Attack" value="" />
+ 		<property name="Parry" value="" />
+ 		<property name="Cannon" value="" />
+ 		<property name="Sailing" value="" />
+ 		<property name="Adventuring" value="" />
+ 		<property name="Influence" value="" />
+ 		<property name="Swashbuckling" value="" />
+ 		<property name="Crew Max" value="8" />
+ 		<property name="Move Cost" value="3" />
+ 		<property name="Faction" value="unaligned" />
+ 		<property name="Text" value="Crew Maximum: 8 &#xD;Immediately after players reveal their starting Crews, choose and sink up to 6 of the cards in your deck.&#xD;React: Tack before performing an action, to move to an adjacent Sea." />
+ 	</card>
+ 	<card id="3020ae0b-398d-4038-af25-b5f2ce4c9b15" name="Homeward Arrow">
+ 		<property name="Rarity" value="P" />
+ 		<property name="Type" value="ships" />
+ 		<property name="Cost" value="" />
+ 		<property name="Cost Type" value="" />
+ 		<property name="Cancel" value="" />
+ 		<property name="Cancel Type" value="" />
+ 		<property name="Wealth" value="" />
+ 		<property name="Attack" value="" />
+ 		<property name="Parry" value="" />
+ 		<property name="Cannon" value="" />
+ 		<property name="Sailing" value="" />
+ 		<property name="Adventuring" value="" />
+ 		<property name="Influence" value="" />
+ 		<property name="Swashbuckling" value="" />
+ 		<property name="Crew Max" value="5" />
+ 		<property name="Move Cost" value="1" />
+ 		<property name="Faction" value="unaligned" />
+ 		<property name="Text" value="Crew Maximum: 5 (may not be increased) &#xD;Act: Tack one of your Crew to move to an adjacent Sea.&#xD;React: Tack before performing an action, to move to an adjacent Sea." />
+ 	</card>
+ 	<card id="ad513f19-0b11-4551-a6cd-d12e615b18c7" name="Le Petit Esprit">
+ 		<property name="Rarity" value="P" />
+ 		<property name="Type" value="ships" />
+ 		<property name="Cost" value="" />
+ 		<property name="Cost Type" value="" />
+ 		<property name="Cancel" value="" />
+ 		<property name="Cancel Type" value="" />
+ 		<property name="Wealth" value="" />
+ 		<property name="Attack" value="" />
+ 		<property name="Parry" value="" />
+ 		<property name="Cannon" value="" />
+ 		<property name="Sailing" value="" />
+ 		<property name="Adventuring" value="" />
+ 		<property name="Influence" value="" />
+ 		<property name="Swashbuckling" value="" />
+ 		<property name="Crew Max" value="5" />
+ 		<property name="Move Cost" value="1" />
+ 		<property name="Faction" value="unaligned" />
+ 		<property name="Text" value="Crew Maximum: 5 &#xD;React: Tack after you have completed an Adventure to untack one of your Crew that produced Adventuring to complete that Adventure.&#xD;React: Tack before performing an action, to move to an adjacent Sea." />
+ 	</card>
+ 	<card id="add02665-b911-466a-9c57-8a357b497f86" name="The Highland Piper">
+ 		<property name="Rarity" value="P" />
+ 		<property name="Type" value="ships" />
+ 		<property name="Cost" value="" />
+ 		<property name="Cost Type" value="" />
+ 		<property name="Cancel" value="" />
+ 		<property name="Cancel Type" value="" />
+ 		<property name="Wealth" value="" />
+ 		<property name="Attack" value="" />
+ 		<property name="Parry" value="" />
+ 		<property name="Cannon" value="" />
+ 		<property name="Sailing" value="" />
+ 		<property name="Adventuring" value="" />
+ 		<property name="Influence" value="" />
+ 		<property name="Swashbuckling" value="" />
+ 		<property name="Crew Max" value="6" />
+ 		<property name="Move Cost" value="2" />
+ 		<property name="Faction" value="unaligned" />
+ 		<property name="Text" value="Crew Maximum: 6 &#xD;React: Tack before performing an action, to move to an adjacent Sea.&#xD;React: Tack when you are paying Adventuring to complete an Adventure with the Goods or Item traits to reduce the Adventuring cost of that Adventure by 3 (minimum 0)." />
+ 	</card>
+ 	<card id="638b22ea-6d79-40d7-8d6b-22aadc03115a" name="Trechaut">
+ 		<property name="Rarity" value="P" />
+ 		<property name="Type" value="attachments" />
+ 		<property name="Cost" value="2" />
+ 		<property name="Cost Type" value="Ad" />
+ 		<property name="Cancel" value="" />
+ 		<property name="Cancel Type" value="" />
+ 		<property name="Wealth" value="" />
+ 		<property name="Attack" value="C" />
+ 		<property name="Parry" value="d,s" />
+ 		<property name="Cannon" value="" />
+ 		<property name="Sailing" value="" />
+ 		<property name="Adventuring" value="" />
+ 		<property name="Influence" value="" />
+ 		<property name="Swashbuckling" value="" />
+ 		<property name="Crew Max" value="" />
+ 		<property name="Move Cost" value="" />
+ 		<property name="Faction" value="" />
+ 		<property name="Text" value="SEA ATTACHMENT &#xD;Unique • Port &#xD;Any player in this Sea may sink this card by producing 4 Swashbuckling as an action. &#xD; Holy Crew in this Sea have +1 to all of their skills." />
+ 	</card>
+ 	<card id="f96db212-393d-4cea-a889-38f65848227e" name="Ill-Fated Journey">
+ 		<property name="Rarity" value="P" />
+ 		<property name="Type" value="attachments" />
+ 		<property name="Cost" value="" />
+ 		<property name="Cost Type" value="" />
+ 		<property name="Cancel" value="" />
+ 		<property name="Cancel Type" value="" />
+ 		<property name="Wealth" value="" />
+ 		<property name="Attack" value="C" />
+ 		<property name="Parry" value="d,s" />
+ 		<property name="Cannon" value="" />
+ 		<property name="Sailing" value="" />
+ 		<property name="Adventuring" value="" />
+ 		<property name="Influence" value="" />
+ 		<property name="Swashbuckling" value="" />
+ 		<property name="Crew Max" value="" />
+ 		<property name="Move Cost" value="" />
+ 		<property name="Faction" value="" />
+ 		<property name="Text" value="SEA ATTACHMENT &#xD;Unique • Fate &#xD;You must tack one of your Crew with a Fate of 1 or more to put this card into play. When the next Ship enters this Sea, Ill-Fated Journey inflicts 5 Hits on that Ship, then sinks." />
+ 	</card>
+ 	<card id="dd23d567-8a57-43a7-b2da-78140320a445" name="Captain McGee"><property name="Rarity" value="P" /><property name="Type" value="captains" /><property name="Cost" value="" /><property name="Cost Type" value="" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="8" /><property name="Attack" value="" /><property name="Parry" value="" /><property name="Cannon" value="3" /><property name="Sailing" value="2" /><property name="Adventuring" value="3" /><property name="Influence" value="3" /><property name="Swashbuckling" value="4" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Start: Frothing Sea &#xD;Heroic • Swordsman +2 &#xD;You may not have Bloody Bonnie McGee on board. McGee may only use Ships with no Faction symbol.&#xD;React: Once per turn, after another player's Villainous Crew has been sunk from play, untack McGee if you have 3 or more unaligned Crew with a printed Influence cost greater than 2." /></card>
+
+ 	<card id="0e5d1d38-d915-47f5-802b-6d8a5b7a87f5" name="Luis Rafael Dominguez de San Angelo"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="5" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="0" /><property name="Sailing" value="0" /><property name="Adventuring" value="3" /><property name="Influence" value="2" /><property name="Swashbuckling" value="3" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="Castille" /><property name="Text" value="*Knights of the Rose and Cross* &#xD;Unique • Swordsman +2 &#xD;When Luis inflicts Hits in a Duel, the opposing Crew in the Duel may not tack to absorb the Hits." /></card>
+
+ 	<card id="0fd7a446-8a6e-4ec7-ad80-5eee11ae6cfc" name="Dregs and Thugs"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="4" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="0" /><property name="Sailing" value="0" /><property name="Adventuring" value="0" /><property name="Influence" value="0" /><property name="Swashbuckling" value="2" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Unique • No Attachments &#xD;When Dregs and Thugs tack to absorb Hits, they absorb 2 extra Hits. &#xD;React: Once per turn, discard a card from your hand when you are suffering Hits to reduce the Hits suffered by 2." /></card>
+
+ 	<card id="35c0d437-61ef-49d1-ae2f-513fe00a3681" name="Freya Danya Gydasdottir"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="8" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="0" /><property name="Sailing" value="3" /><property name="Adventuring" value="2" /><property name="Influence" value="2" /><property name="Swashbuckling" value="3" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Heroic • First Mate • Unique &#xD;Act: Once per turn, name one of the five skils. Until the end of the turn, all of your Crew aligned to your Captain's faction have a +1 bonus to the named Skill." /></card>
+
+ 	<card id="624c6f55-4044-4af1-995b-2df99d33a08e" name="Faye Dunsinain"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="5" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="1" /><property name="Sailing" value="0" /><property name="Adventuring" value="3" /><property name="Influence" value="1" /><property name="Swashbuckling" value="2" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Unique • Swordsman +1 &#xD;React: Tack Faye when one of your Crew is targeted by a card which begins a Duel. &#xD;Cancel that action." /></card>
+
+ 	<card id="7266b0aa-2a47-4d69-aa4c-657c764397eb" name="Neeman the Coward"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="2" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="0" /><property name="Sailing" value="3" /><property name="Adventuring" value="1" /><property name="Influence" value="0" /><property name="Swashbuckling" value="1" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Unique &#xD;Discard Neeman if another Ship enters your sea." /></card>
+
+ 	<card id="477041c7-af5d-4ba7-b54e-2743f95be092" name="Hassad The Enforcer"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="4" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="0" /><property name="Sailing" value="0" /><property name="Adventuring" value="1" /><property name="Influence" value="2" /><property name="Swashbuckling" value="3" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Unique &#xD;When you unaligned Crew sink to absorb Hits, they absorb 1 extra Hit." /></card>
+
+ 	<card id="b57294d5-4004-4e6e-a382-9c661d416bf6" name="Tracey Anvilin"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="6" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="1" /><property name="Sailing" value="0" /><property name="Adventuring" value="2" /><property name="Influence" value="3" /><property name="Swashbuckling" value="3" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Unique • Swordsman +2 &#xD;There is no limit to the number of Swordsman Knacks Tracey may have attached (overriding the text on the Swordsman Knacks)." /></card>
+
+ 	<card id="bb4737cb-9aa5-4fbd-8a76-a1bb98493ad9" name="Reynard Fornier"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="3" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="0" /><property name="Sailing" value="1" /><property name="Adventuring" value="0" /><property name="Influence" value="1" /><property name="Swashbuckling" value="1" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="Black Freighter" /><property name="Text" value="Unique • Loyal &#xD;When this Crew tacks or sinks to absorb Hits you may discard one card from your hand to have him absorb 2 extra Hits (you may not discard multiple cards for extra Hits)." /></card>
+
+ 	<card id="d4d04950-165f-4c60-81ff-8ce55c33a017" name="Jacklyn the Black"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="4" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="0" /><property name="Sailing" value="0" /><property name="Adventuring" value="2" /><property name="Influence" value="0" /><property name="Swashbuckling" value="3" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Unique • Swordsman +1 &#xD;Once per Boarding, if you are the defender, you may push Jacklyn forward for a Boarding Attack when she is tacked." /></card>
+
+ 	<card id="d787088f-4d43-4419-a6ed-78997bd68ba9" name="Salvador Bernoulli"><property name="Rarity" value="P" /><property name="Type" value="crew" /><property name="Cost" value="7" /><property name="Cost Type" value="In" /><property name="Cancel" value="" /><property name="Cancel Type" value="" /><property name="Wealth" value="" /><property name="Attack" value="P" /><property name="Parry" value="c,t" /><property name="Cannon" value="1" /><property name="Sailing" value="2" /><property name="Adventuring" value="3" /><property name="Influence" value="4" /><property name="Swashbuckling" value="3" /><property name="Crew Max" value="" /><property name="Move Cost" value="" /><property name="Faction" value="unaligned" /><property name="Text" value="Heroic • First Mate • Unique • Swardsman +2 &#xD;Salvador inflicts an additional 4 Hits during Boarding Attacks when the other Ship in the Boarding has a Villainous Captain on Board." /></card>
+  </cards>
+</set>
